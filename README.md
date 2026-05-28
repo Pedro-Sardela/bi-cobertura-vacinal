@@ -4,7 +4,7 @@ Landing page institucional desenvolvida em React + TypeScript para apresentar um
 
 O projeto utiliza dados públicos oficiais do Ministério da Saúde e integra um dashboard publicado no Power BI por meio de iframe público.
 
-Site Publicado
+# Site Publicado
 
 A landing page está hospedada na Vercel e pode ser acessada pelo link:
 
